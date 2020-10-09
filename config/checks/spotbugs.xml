@@ -1,0 +1,5 @@
+<FindBugsFilter>
+    <Match>
+        <Bug code="CORRECTNESS,MT_CORRECTNESS,BAD_PRACTICE,PERFORMANCE,SECURITY,STYLE"/>
+    </Match>
+</FindBugsFilter>
